@@ -18,6 +18,9 @@ An end-to-end mobile application that detects paddy leaf diseases in real-time u
 - MobileNetV2 architecture for lightweight deployment
 - Exported to TensorFlow Lite for mobile inference
 
+## 📦 Model Download
+
+
 ## 🛠 Tech Stack
 
 - Python · TensorFlow · Keras · TensorFlow Lite · Android Studio · OpenCV · Firebase (optional)
